@@ -6,5 +6,6 @@ public class Hat {
         //update class Hat
 
         System.out.println("wearing a hat");
+        System.out.println(1+2);
     }
 }
