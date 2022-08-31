@@ -4,5 +4,7 @@ public class Hat {
         System.out.println("Test");
 
         //update class Hat
+
+        System.out.println("wearing a hat");
     }
 }
